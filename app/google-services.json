@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "245356541706",
+    "project_id": "notebas-c7d3e",
+    "storage_bucket": "notebas-c7d3e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245356541706:android:63d25b76433b84f0272cf3",
+        "android_client_info": {
+          "package_name": "com.example.notebas_v3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKTQRCKWZtrKlXW7bu0sCVKhRexomeqmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
